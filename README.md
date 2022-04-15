@@ -1,4 +1,4 @@
-# Buck_Converter
+# Buck_Converter_3v3_5v
 
 PCB diseñada en KiCAD 6.0 de una fuente de alimentacion DC-DC capaz de darnos 3,3V o 5V.
 
