@@ -1,4 +1,4 @@
-# Buck_Converter_3v3_5v
+# Buck Converter with 2 Outputs of 3v3 and 5v
 
 PCB diseñada en KiCAD 6.0 de una fuente de alimentacion DC-DC capaz de darnos 3,3V o 5V.
 
@@ -13,7 +13,8 @@ PCB diseñada en KiCAD 6.0 de una fuente de alimentacion DC-DC capaz de darnos 3
 
 <p align="center">
   <img width="448" height="336" src="https://github.com/darioGg3/Buck_Converter/blob/main/img/Front.png">
-  
+  <hr></p>
+  <p align="center">
   <img width="448" height="336" src="https://github.com/darioGg3/Buck_Converter/blob/main/img/Back.png">
 </p>
 
