@@ -8,7 +8,7 @@
     (title "Buck Converter 6-28V  to  3,3V or 5V")
     (date "2022-04-15")
     (company "Dario Gonzalez ")
-    (comment 1 "https://github.com/darioGg3/Buck_Converter")
+    (comment 1 "https://github.com/darioGg3/Buck_Converter_3v3_5v")
   )
 
   (lib_symbols
