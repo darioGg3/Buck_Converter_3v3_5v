@@ -9,11 +9,10 @@ PCB designed on KiCAD 6.0
   - Max output current: 500 mA.
   - Integrates the Texas Instrument IC [TPS54331](https://www.ti.com/lit/ds/symlink/tps54331.pdf) .
  <br>
-<p align="center">
-  <img width="448" height="336" src="https://github.com/darioGg3/Buck_Converter/blob/main/img/Front.png">
-  <br>
-  <br>
-  <img width="448" height="336" src="https://github.com/darioGg3/Buck_Converter/blob/main/img/Back.png">
+<p>
+  <img height="200"  style="padding: 30px;" src="https://github.com/darioGg3/Buck_Converter/blob/main/img/Front.png">
+
+  <img height="200"  src="https://github.com/darioGg3/Buck_Converter/blob/main/img/Back.png">
 </p>
 
 
