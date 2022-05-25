@@ -15,6 +15,10 @@ PCB designed on KiCAD 6.0
   <img height="200"  src="https://github.com/darioGg3/Buck_Converter/blob/main/img/Back.png">
 </p>
 
+<p>
+  <img  src="https://github.com/darioGg3/Buck_Converter/blob/main/img/Schematic_img.png">
+</p>
+
 
 
 
